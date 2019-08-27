@@ -1,0 +1,170 @@
+@media only screen and (max-width:1440px) {
+	.gallery-wrap .subtitle h2 {
+		margin-bottom: 0;
+		margin-top: 50px;
+	}
+}
+@media only screen and (max-width:1366px) {
+	.container {
+		width: 90%;
+	}
+}
+@media only screen and (max-width:1024px) {
+	h3 {
+		font-size: 55px;
+		line-height: 55px;
+	}
+	.insta-title h2 {
+		font-size: 50px;
+		line-height: 50px;
+	}
+	.swiper-button-next {
+		right: 0;
+	}
+}
+@media only screen and (max-width:768px) {
+	.desc {
+		width: 80%;
+	}
+	.menu-subtitle h6::after {
+		width: 50%;
+	}
+	.menu-con {
+		padding: 20px 0 0;
+	}
+	.footer-contact h4 {
+		font-size: 18px;
+		line-height: 24px;
+	}
+	.map-img iframe {
+		height: 500px;
+	}
+}
+@media only screen and (max-width:767px) {
+	.navbar-header {
+		width: auto;
+	}
+	.navbar-inverse .navbar-toggle {
+		border-color: transparent;
+	}
+	.navbar-inverse .navbar-toggle .icon-bar {
+		background-color: #bd8d46;
+	}
+	.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+		background-color: transparent;
+	}
+	.navbar-toggle {
+		padding: 25px 10px;
+	}
+	ul.nav.navbar-nav.navbar-right, .navbar-nav {
+		width: auto;
+		display: block;
+	}
+	.navbar-inverse {
+		margin-top: 0;
+	}
+	.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+		background-color: #bd8d46;
+	}
+	h1 {
+		font-size: 35px;
+	}
+	.scroll-down {
+		width: 50%;
+	}
+	.container {
+		width: 95%;
+	}
+	.desc {
+		width: 100%;
+	}
+	h3 {
+		font-size: 45px;
+		line-height: 46px;
+	}
+	.our-menu-title .display-flex {
+		display: block;
+	}
+	.read-more-btn.download-btn {
+		margin-top: 35px;
+	}
+	section.our-menu-sec .col-sm-3 {
+		width: 24%;
+		display: inline-block;
+	}
+	.nav.nav-tabs a {
+		font-size: 9px;
+		padding: 15px 0;
+		letter-spacing: 0;
+	}
+	.nav.nav-tabs a.active::after {
+		bottom: 10px;
+	}
+	.tab-content {
+		padding: 50px 0 0;
+	}
+	.menu-item h6 {
+		width: 100%;
+	}
+	.menu-item h6 {
+		padding-top: 5px;
+	}
+	h4 {
+		font-size: 20px;
+		line-height: 26px;
+	}
+	.insta-sec {
+		padding: 50px 0;
+	}
+	.insta-title h2 {
+		font-size: 35px;
+		line-height: 35px;
+	}
+	.insta-slider-wrap {
+		margin: 50px 0;
+	}
+	.swiper-container-autoheight, .swiper-container-autoheight .swiper-slide {
+		width: 100%;
+	}
+	.footer-logo {
+		margin-bottom: 50px;
+	}
+	footer {
+		padding: 50px 0;
+	}
+	.pull-right {
+		float: inherit;
+		width: 100%;
+		text-align: center;
+	}
+	.copy-right-con {
+		padding-bottom: 10px;
+	}
+	.footer-contact h4 {
+		font-size: 14px;
+		line-height: 18px;
+	}
+	.footer-contact p, .copy-right-con.center-align ul li a, .copy-right-con a {
+		font-size: 12px;
+	}
+	.navbar-inverse .navbar-nav>li>a:hover {
+		color: #fff;
+		transition: 0.4s all ease;
+	}
+	.copy-right-con {
+		text-align: center;
+	}
+	.insta-slider-wrap .swiper-container .swiper-slide-active {
+		width: 150px;
+		height: 150px;
+	}
+	.swiper-container .swiper-slide {
+		width: 150px;
+	}
+	.map-img iframe {
+		height: 300px;
+	}
+	.nav-tabs {
+		min-height: 85px;
+	}
+}

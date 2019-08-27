@@ -1,0 +1,45 @@
+.navbar-inverse {
+	background-color: transparent;
+	border-color: transparent;
+	margin-bottom: 0;
+	position: absolute;
+	width: 100%;
+	z-index: 2;
+	margin-top: 30px;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+	border-color: transparent;
+	-webkit-overflow-scrolling: touch;
+	border-top: 0;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+	color: #000;
+	background-color: transparent;
+}
+.navbar-nav {
+	padding: 15px 0;
+}
+.navbar-header {
+	width: 10%;
+}
+.navbar-nav {
+	float: inherit;
+	margin: 0;
+	display: inline-flex;
+	justify-content: center;
+	width: 70%;
+}
+ul.nav.navbar-nav.navbar-right {
+	width: 20%;
+}
+.navbar-inverse .navbar-nav>li>a {
+	color: #fff;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+.navbar-inverse .navbar-nav>li>a:hover, .copy-right-con.center-align ul li a:hover {
+	transition: 0.4s all ease;
+	color: #bd8d46;
+}
